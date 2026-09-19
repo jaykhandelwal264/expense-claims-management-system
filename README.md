@@ -184,7 +184,7 @@ Instead, the manager and Finance team can review the limit warning.
 
 The main claim workflow is:
 
-```text
+text
 Draft
   ↓
 Submitted
