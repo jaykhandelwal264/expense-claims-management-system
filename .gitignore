@@ -1,0 +1,72 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+
+# Runtime uploads
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+Receipt or Invoice.v5i.folder/
+dataset/
+datasets/
+
+# Kaggle / Roboflow source data
+kaggle_data/
+roboflow_data/
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+
+# Runtime uploaded receipts
+uploads/receipts/*
+!uploads/receipts/.gitkeep
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large receipt datasets
+large-receipt-image-dataset-SRD/
+Receipt or Invoice.v5i.folder/
+data/dataset/
+
+# Jupyter files if any
+.ipynb_checkpoints/
